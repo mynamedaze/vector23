@@ -337,8 +337,8 @@ label {
   min-height: 36px;
   border-radius: 5px;
   border: 0 solid transparent;
-  -webkit-box-shadow: 0 2px 15px 0 #ff3400;
-  box-shadow: 0 2px 15px 0 #ff3400;
+  -webkit-box-shadow: 0 2px 10px 0 rgba(255, 52, 0, 0.6);
+  box-shadow: 0 2px 10px 0 rgba(255, 52, 0, 0.6);
   font-weight: 900;
   font-size: 15px;
   color: #fff;
@@ -504,10 +504,15 @@ label {
   .main-nav__item:last-child .main-nav__link {
     padding-right: 0; } }
 
-.main-nav__notice {
-  display: block;
-  text-align: center;
-  margin-top: 20px; }
+@media (max-width: 767px) {
+  .main-nav__notice {
+    display: block;
+    text-align: center;
+    margin-top: 20px; } }
+
+@media (min-width: 768px) {
+  .main-nav__notice {
+    display: none; } }
 
 @media (max-width: 767px) {
   .main-nav__socials {

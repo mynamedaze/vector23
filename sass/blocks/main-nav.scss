@@ -93,9 +93,14 @@
   }
 }
 .main-nav__notice {
-  display: block;
-  text-align: center;
-  margin-top: 20px;
+  @media #{$max-mobile-width} {
+    display: block;
+    text-align: center;
+    margin-top: 20px;
+  }
+  @media #{$min-tablet-width} {
+    display: none;
+  }
 }
 .main-nav__socials {
   @media #{$max-mobile-width} {
