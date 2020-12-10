@@ -69,7 +69,7 @@
 .main-nav__link {
   padding-top: 10px;
   padding-bottom: 10px;
-  color: $color--main;
+  @include link;
   &:visited {
     color: $color--main;
   }
