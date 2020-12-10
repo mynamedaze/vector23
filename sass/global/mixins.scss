@@ -1,0 +1,53 @@
+@mixin paddings {
+  @media #{$max-mobile-width} {
+    padding-left: $padding--mobile;
+    padding-right: $padding--mobile;
+  }
+  @media #{$min-tablet-width} {
+    padding-left: $padding--tablet;
+    padding-right: $padding--tablet;
+  }
+}
+@mixin section-width {
+  max-width: $max-desktop-wrapper;
+}
+@mixin centers {
+  margin-left: auto;
+  margin-right: auto;
+}
+@mixin link {
+  font-family: $font--alt;
+  color: $color--alt2;
+  text-decoration: underline;
+  font-size: 16px;
+  letter-spacing: 1px;
+  position: relative;
+  &::after {
+    position: absolute;
+    content: "";
+    right: -40px;
+    top: 50%;
+    transform: translateY(-50%);
+    width: 22px;
+    height: 10px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("/image/catalog/petrov/arrow.svg");
+  }
+}
+@mixin main-btn {
+  background-color: $main-btn-color;
+  min-height: 36px;
+  border-radius: 5px;
+  border: 0 solid transparent;
+  box-shadow: 0 2px 15px 0 rgba(255, 52, 0, 1);
+  font-weight: 900;
+  font-size: 15px;
+  color: #fff;
+  text-transform: uppercase;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  display: block;
+  width: 100%;
+}

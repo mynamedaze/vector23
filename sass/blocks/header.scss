@@ -1,0 +1,206 @@
+/*page-header*/
+.page-header__wrapper {
+  @include centers;
+  @include paddings;
+  @include section-width;
+  display: flex;
+  align-items: center;
+  @media #{$max-mobile-width} {
+    flex-direction: column;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  @media #{$min-tablet-width} {
+    padding-top: 7px;
+    padding-bottom: 7px;
+  }
+  @media #{$min-desktop-width} {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+.page-header__logo-container {
+  @media #{$max-mobile-width} {
+    width: 152px;
+    margin-bottom: 10px;
+  }
+  @media #{$min-tablet-width} {
+    flex-shrink: 0;
+    width: 106px;
+    margin-right: 16px;
+  }
+  @media #{$min-desktop-width} {
+    width: 152px;
+    margin-right: 23px;
+  }
+}
+.page-header__main-container {
+  @media #{$max-mobile-width} {
+    width: 100%;
+  }
+  @media #{$min-tablet-width} {
+    flex-grow: 1;
+  }
+}
+.page-header__descriptions {
+  @media #{$max-mobile-width} {
+    display: none;
+  }
+  @media #{$min-tablet-width} {
+    border-bottom: 1px solid #f0f0f0;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 13px;
+  }
+}
+.page-header__description--1 {
+  padding-right: 20px;
+}
+.page-header__interactive-container {
+  display: flex;
+  align-items: center;
+  @media #{$min-tablet-width} {
+    padding-top: 10px;
+    padding-bottom: 3px;
+  }
+}
+.page-header__burger-btn-container {
+  @media #{$max-mobile-width} {
+    width: 35px;
+    flex-shrink: 0;
+    margin-right: 10px;
+  }
+  @media #{$min-tablet-width} {
+    display: none;
+  }
+}
+.page-header__burger-btn {
+  font-size: 0;
+  width: 100%;
+  height: 35px;
+  background-color: transparent;
+  border: 0 solid transparent;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+  background-image: url("../img/burger.svg");
+}
+.page-header__city-container {
+  margin-right: auto;
+  font-size: 11.5px;
+}
+.page-header__city-notice {
+  padding-right: 5px;
+}
+.page-header__city-btn {
+  text-decoration: underline;
+  color: #0071cb;
+  padding: 5px 10px 5px 0;
+  background-color: transparent;
+  border: 0 solid transparent;
+}
+.page-header__phone-link {
+  color: $color--main;
+  &:visited {
+    color: $color--main;
+  }
+  @media #{$min-tablet-width} {
+    font-size: 14px;
+  }
+  @media #{$min-desktop-width} {
+    font-size: 16px;
+  }
+}
+.page-header__phone-link--1 {
+  @media #{$max-mobile-width} {
+    font-size: 0;
+    flex-shrink: 0;
+    width: 35px;
+    height: 35px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    background-image: url("../img/phone_icon.svg");
+    margin-right: 10px;
+    margin-left: auto;
+  }
+  @media #{$min-tablet-width} {
+    margin-right: 20px;
+  }
+  @media #{$min-desktop-width} {
+    margin-right: 35px;
+  }
+}
+.page-header__phone-link--2 {
+  @media #{$max-mobile-width} {
+    display: none;
+  }
+  @media #{$tablet-width-only} {
+    display: none;
+  }
+}
+.page-header__callback-btn-container {
+  width: 189px;
+  @media #{$min-tablet-width} {
+    margin-left: 28px;
+  }
+  @media #{$min-desktop-width} {
+    margin-left: 40px;
+  }
+}
+.page-header__callback-btn {
+  @include main-btn;
+  padding-left: 25px;
+  font-size: 11.5px;
+  background-repeat: no-repeat;
+  background-position: 14px center;
+  background-size: 16px auto;
+  background-image: url("../img/phone.svg");
+}
+.page-header__socials {
+  @media #{$max-mobile-width} {
+    display: none;
+  }
+  @media #{$min-tablet-width} {
+    font-size: 0;
+    padding-left: 0;
+    margin-top: 0;
+    margin-bottom: 0;
+    display: flex;
+    flex-direction: column;
+  }
+}
+.page-header__social-item {
+  width: 25px;
+  height: 25px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  margin-left: 15px;
+}
+.page-header__social-item:first-child {
+  margin-top: 0;
+}
+.page-header__social-item:last-child {
+  margin-bottom: 0;
+}
+.page-header__social-link {
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.page-header__social-link--vk {
+  background-image: url("../img/vk.svg");
+  background-size: 14px auto;
+}
+.page-header__social-link--ok {
+  background-image: url("../img/ok.svg");
+  background-size: 14px auto;
+}
+.page-header__social-link--insta {
+  background-image: url("../img/insta.svg");
+  background-size: 14px auto;
+}
+/*/page-header*/

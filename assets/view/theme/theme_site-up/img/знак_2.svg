@@ -1,0 +1,78 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!--Generator: Xara Designer (www.xara.com), SVG filter version: 6.1.0.16-->
+<svg stroke-width="0.501" stroke-linejoin="bevel" fill-rule="evenodd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" overflow="visible" width="59.534pt" height="59.369pt" viewBox="0 0 59.534 59.369">
+ <defs>
+  <linearGradient id="LinearGradient" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="84.014" y2="-85.654" gradientTransform="translate(-8.585 70.274)">
+   <stop offset="0" stop-color="#ffffff"/>
+   <stop offset="1" stop-color="#b2b2b2"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_1" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="-47.739" y2="69.268" gradientTransform="translate(53.928 -12.585)">
+   <stop offset="0" stop-color="#cccccc"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <linearGradient id="LinearGradient_2" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="43.642" y2="-69.178" gradientTransform="translate(-1.671 62.844)">
+   <stop offset="0" stop-color="#0069c5"/>
+   <stop offset="1" stop-color="#0069c5"/>
+  </linearGradient>
+  <image id="Bitmap" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAsCAYAAACQXhN9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABTklEQVRYhe2Wr0tDURhAvzuHMBiiYhAtA00Gm0URRINhyWC1iRaLYLQqGGz+CBaxCBaD2X/AKAg2MclANChMpl7Px3wo4p5v2/2CcA8cVnbv4Y3v3jeJ/F+894NYamVtronvDuMJoVGxgs2nsIbXOG4ZefV1bnHWOqJUcB5zlhHlERexwzKiPOMadlpGlCpuYKHRYqe/awanUyKKTt4udv1s5HEfsxyyXkk/V7rXEnYTWnHO3X9/kksflnc8w4GkEW78vnBYxmNCQ1aRhEmpX0Mly4ii91w5bxio4R4eWEWquIWbTNmLReQJ13GHgD6N6EFc4LMvw2KdlGVJH5YHXMUjAm/SLD79WlHucE7a4Y/IDc5Iu6RErnBMQtAgcoEjEopfIue+xX8vWSJ6AZ5iv4TmM6Ivp0PsEQvYeAK3sShWsHnBh3iPRyKRSCRB5AMz6S7mhmPCUgAAAABJRU5ErkJggg==">
+   <title>1</title>
+  </image>
+  <image id="Bitmap_1" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAsCAYAAACQXhN9AAAACXBIWXMAAA7DAAAOwwHHb6hkAAABPUlEQVRYhe3VL0tDURjH8bN5dWyCGmSIA4ci2AwGg8VisBhWTMsrFl+AsCiDJYOW9b0Dq8EgJoPNpAgWEZxhbNPx+L14Lup1XJw7T5Hzgw83jJ3v/s/4/Y+JSBGTmoFNnGFeK7CDB9w5j3BgGmU8ycfcRjgswB5e5HPuIhyUwQHa8n1uIhySQx09+bnRIxwwjQbeZPCGigQDAnkuxyghnXDfsfAD8ZtIKhZY4NLAVvy22Dq4RNcMMwIruBCFRYE1XIvSUlin08SSUVr4xlWwaDTHM5lBE32tlysKTeEEr2oRG8riEF3Xkfj3ZILLPqrIJbzKzzhC6y9vUfSrW0Er4cE5+e0K/z928agW+RLbxr1qxIY2cKMasaFVXKlGbGgZ56oRGyrgFLdqERuaRQ1zRnMExhEYPz8/P79RZsw70QRpXsI002kAAAAASUVORK5CYII=">
+   <title>2</title>
+  </image>
+  <linearGradient id="LinearGradient_3" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="10.737" y2="0" gradientTransform="translate(32.75 8.558) rotate(124.643) skewX(0.12807)">
+   <stop offset="0" stop-color="#f6f6f6"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </linearGradient>
+  <image id="Bitmap_2" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAsCAYAAABG+8kYAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAWklEQVQ4jWMYBZSB////MzIicfiAlA8QewHxFZigLhAfAeK//yFgOQuQEAfKLQViXWTjmIDYH10QJmGIzQEgCV5cEsy4JBhGJYajBAsQ7wTiN2jiZxloDhgYAPu5IUVEbUp1AAAAAElFTkSuQmCC">
+   <title>3</title>
+  </image>
+  <image id="Bitmap_3" preserveAspectRatio="none" width="1" height="1" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAsCAYAAABG+8kYAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAXElEQVQ4jWMYBcSD////M2ITZwLicqDkEiCOAmI+ZB3L/0PAXyA+AsS6MB3Iuq2BeClQUpwJi/EgHX5MONxkhEuCF5cEMy4JhlGJoS7BAsQ7gfgNmvhZBpoDBgYActUnWcBFHNwAAAAASUVORK5CYII=">
+   <title>4</title>
+  </image>
+ </defs>
+ <g id="Document" fill="none" stroke="black" font-family="Times New Roman" font-size="16" transform="scale(1 -1)">
+  <g id="Spread" transform="translate(0 -59.369)">
+   <g id="Layer 1">
+    <g id="Group" stroke="none">
+     <path d="M 0,29.651 C 0,46.055 13.314,59.369 29.718,59.369 C 46.122,59.369 59.436,46.055 59.436,29.651 C 59.436,13.247 46.122,-0.067 29.718,-0.067 C 13.314,-0.067 0,13.247 0,29.651 Z" stroke-width="1.184" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient)"/>
+     <path d="M 58.738,29.648 C 58.738,13.628 45.736,0.626 29.716,0.626 C 13.696,0.626 0.694,13.628 0.694,29.648 C 0.694,45.668 13.696,58.67 29.716,58.67 C 45.736,58.67 58.738,45.668 58.738,29.648 Z" stroke-width="1.153" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_1)"/>
+     <path d="M 57.946,29.648 C 57.946,14.065 45.299,1.418 29.716,1.418 C 14.133,1.418 1.486,14.065 1.486,29.648 C 1.486,45.231 14.133,57.878 29.716,57.878 C 45.299,57.878 57.946,45.231 57.946,29.648 Z" stroke-width="1.109" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775" fill="url(#LinearGradient_2)"/>
+     <g id="Group_1" stroke-linejoin="miter">
+      <clipPath id="clip-path">
+       <use xlink:href="#Shape"/>
+      </clipPath>
+      <g clip-path="url(#clip-path)">
+       <use xlink:href="#Bitmap" transform="translate(33.035 46.628) scale(18.512 -32.683)"/>
+      </g>
+      <path d="M 33.035,13.945 L 51.547,13.945 L 51.547,46.628 L 33.035,46.628 L 33.035,13.945 Z" marker-start="none" marker-end="none" fill="none" id="Shape"/>
+      <clipPath id="clip-path_1">
+       <use xlink:href="#Shape_1"/>
+      </clipPath>
+      <g clip-path="url(#clip-path_1)">
+       <use xlink:href="#Bitmap_1" transform="translate(7.546 46.628) scale(18.705 -32.683)"/>
+      </g>
+      <path d="M 7.546,13.945 L 26.251,13.945 L 26.251,46.628 L 7.546,46.628 L 7.546,13.945 Z" marker-start="none" marker-end="none" fill="none" id="Shape_1"/>
+      <path d="M 25.941,17.645 L 25.941,10.243 C 25.941,10.243 25.941,10.243 25.941,10.243 L 33.366,10.243 C 33.366,10.243 33.366,10.243 33.366,10.243 L 33.366,17.645 C 33.366,17.645 33.366,17.645 33.366,17.645 L 25.941,17.645 C 25.941,17.645 25.941,17.645 25.941,17.645 Z" marker-start="none" marker-end="none" fill="url(#LinearGradient_3)"/>
+      <clipPath id="clip-path_2">
+       <use xlink:href="#Shape_2"/>
+      </clipPath>
+      <g clip-path="url(#clip-path_2)">
+       <use xlink:href="#Bitmap_2" transform="translate(29.406 46.628) scale(3.96 -32.683)"/>
+      </g>
+      <path d="M 29.406,13.945 L 33.366,13.945 L 33.366,46.628 L 29.406,46.628 L 29.406,13.945 Z" marker-start="none" marker-end="none" fill="none" id="Shape_2"/>
+      <clipPath id="clip-path_3">
+       <use xlink:href="#Shape_3"/>
+      </clipPath>
+      <g clip-path="url(#clip-path_3)">
+       <use xlink:href="#Bitmap_3" transform="translate(25.943 46.628) scale(3.96 -32.683)"/>
+      </g>
+      <path d="M 29.903,13.945 L 25.943,13.945 L 25.943,46.628 L 29.903,46.628 L 29.903,13.945 Z" marker-start="none" marker-end="none" fill="none" id="Shape_3"/>
+     </g>
+     <path d="M 29.711,3.026 C 15.02,3.026 3.094,14.952 3.094,29.647 C 3.094,44.339 15.02,56.265 29.711,56.265 C 44.403,56.265 56.33,44.339 56.33,29.647 C 56.33,14.952 44.403,3.026 29.711,3.026 Z M 29.711,3.503 C 44.141,3.503 55.855,15.216 55.855,29.647 C 55.855,44.077 44.141,55.789 29.711,55.789 C 15.283,55.789 3.57,44.077 3.57,29.647 C 3.57,15.216 15.283,3.503 29.711,3.503 Z" stroke-width="1.204" fill="#ffffff" fill-rule="evenodd" marker-start="none" marker-end="none" stroke-miterlimit="79.8403193612775"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
