@@ -1,0 +1,121 @@
+.bottom-nav {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-image: url("../img/footer-bg.jpg");
+}
+.bottom-nav__wrapper {
+  @include paddings;
+  @include section-width;
+  @include centers;
+  display: flex;
+  @media #{$max-mobile-width} {
+    flex-wrap: wrap;
+    padding-bottom: 25px;
+  }
+  @media #{$min-tablet-width} {
+    justify-content: center;
+    padding-top: 30px;
+    padding-bottom: 10px;
+  }
+}
+.bottom-nav__container {
+  @media #{$max-mobile-width} {
+    width: 50%;
+    margin-top: 20px;
+    padding-right: 20px;
+  }
+  @media #{$min-tablet-width} {
+    width: 33%;
+    padding-left: 35px;
+  }
+  @media #{$min-desktop-width} {
+    padding-left: 55px;
+  }
+}
+.bottom-nav__container-link.bottom-nav__container-link--main {
+  font-size: 14px;
+  @media #{$min-desktop-width} {
+    font-size: 16px;
+  }
+  &.highlight {
+    position: relative;
+    &:after {
+      position: absolute;
+      content: "";
+      left: 0;
+      bottom: -5px;
+      width: 100%;
+      height: 2px;
+      background-color: #0069c5;
+    }
+  }
+}
+.bottom-nav__container-list {
+  padding-left: 0;
+}
+.bottom-nav__container-item {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  &.highlight {
+    margin-top: 19px;
+    margin-bottom: 19px;
+    .bottom-nav__container-link {
+      position: relative;
+      font-size: 14px;
+      @media #{$min-desktop-width} {
+        font-size: 16px;
+      }
+      &:after {
+        position: absolute;
+        content: "";
+        left: 0;
+        bottom: -5px;
+        width: 100%;
+        height: 2px;
+        background-color: #0069c5;
+      }
+    }
+  }
+}
+.bottom-nav__container-link {
+  color: $color--main;
+  font-size: 12px;
+  @media #{$min-desktop-width} {
+    font-size: 14px;
+  }
+  &:hover {
+    color: $color--main;
+  }
+}
+.copyright__container {
+  font-size: 10px;
+  @media #{$max-mobile-width} {
+    margin-top: 30px;
+  }
+  @media #{$min-tablet-width} {
+    margin-top: 60px;
+  }
+  @media #{$min-desktop-width} {
+    margin-top: 85px;
+    font-size: 12px;
+  }
+}
+.copyright__year {
+  display: block;
+}
+.copyright__developer {
+  display: block;
+  @media #{$max-mobile-width} {
+    margin-top: 5px;
+  }
+  @media #{$min-tablet-width} {
+    margin-top: 14px;
+  }
+  @media #{$min-desktop-width} {
+    margin-top: 20px;
+  }
+}
+.copyright__developer-link {
+  color: $color--main;
+}

@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d832aecc-59d6-4efb-9bd4-0e9b8037d90f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/sass/blocks/bottom-nav.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/blocks/footer.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/view/theme/theme_site-up/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/view/theme/theme_site-up/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/blocks/main-nav.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/main-nav.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/global/mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/global/mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/sass/global/variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/global/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/blocks/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/blocks/header-footer.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/global/scaffolding.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/global/scaffolding.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +54,11 @@
       <updated>1607537246511</updated>
       <workItem from="1607537249718" duration="5655000" />
       <workItem from="1607544267933" duration="259000" />
-      <workItem from="1607590420760" duration="15127000" />
+      <workItem from="1607590420760" duration="15820000" />
+      <workItem from="1607625970694" duration="604000" />
+      <workItem from="1607675856946" duration="8142000" />
+      <workItem from="1607717646396" duration="7000" />
+      <workItem from="1607760873905" duration="3355000" />
     </task>
     <servers />
   </component>
